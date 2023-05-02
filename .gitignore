@@ -39,4 +39,3 @@ lerna-debug.log*
 .vscode/tasks.json
 .prettierrc
 settings.json
-tsconfig.json
